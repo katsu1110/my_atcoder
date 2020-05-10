@@ -1,0 +1,4 @@
+3
+hoge
+piyo
+fuga
